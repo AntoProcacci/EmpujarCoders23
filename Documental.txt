@@ -1,0 +1,3 @@
+Hicimos una copia de los repositorios usando los siguientes comandos; git remote add origin para vincularme, git clone para clonarlos y luego git commit para añadir comentario y para subirlos el git push.
+Incluso hicimos una carpeta llamada Paso a Paso para dejar asentado el clonamiento de los archivos.
+
