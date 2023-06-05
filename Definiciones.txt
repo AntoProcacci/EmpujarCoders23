@@ -1,0 +1,9 @@
+En Git, las siguientes son operaciones importantes relacionadas con la colaboración y el control de versiones:
+
+Commit: Un commit en Git es una acción que guarda los cambios realizados en tu repositorio local. Cada commit tiene un identificador único y contiene información sobre qué archivos se han modificado y cuáles son los cambios realizados. Es una forma de guardar el estado actual de tu proyecto.
+
+Pull: El comando "pull" en Git se utiliza para combinar los cambios remotos en tu repositorio local. Cuando trabajas en un proyecto colaborativo y otros colaboradores realizan cambios en el repositorio remoto, puedes usar "pull" para descargar esos cambios y fusionarlos con tu versión local. Esto garantiza que tu repositorio esté actualizado.
+
+Fetch: "Fetch" en Git se utiliza para descargar los cambios remotos y actualizar tu repositorio local sin realizar ninguna fusión con tu rama actual. A diferencia de "pull", "fetch" solo descarga los cambios sin mezclarlos automáticamente. Esto te permite revisar los cambios antes de fusionarlos manualmente.
+
+Push: El comando "push" en Git se utiliza para enviar tus commits locales al repositorio remoto. Después de haber realizado cambios y commits en tu repositorio local, puedes usar "push" para enviar esos cambios al repositorio compartido, lo que permite que otros colaboradores accedan a tus modificaciones.
